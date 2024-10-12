@@ -10,4 +10,20 @@ DATA_INGESTION_DIR_NAME: str = "data_ingestion"
 
 DATA_INGESTION_FEATURE_STORE_DIR: str = "feature_store"
 
+
 DATA_DOWNLOAD_URL: str = "https://drive.google.com/uc?id=1vma-9hUkc-kh4fYvaZMOeclH9FmJGn-K"
+
+
+"""
+Data Validation realted contant start with DATA_VALIDATION VAR NAME
+"""
+
+"""
+Data Validation realted contant start with DATA_VALIDATION VAR NAME
+"""
+
+DATA_VALIDATION_DIR_NAME: str = "data_validation"
+
+DATA_VALIDATION_STATUS_FILE = 'status.txt'
+
+DATA_VALIDATION_ALL_REQUIRED_FILES = ["train", "test","validate","data.yaml"]
