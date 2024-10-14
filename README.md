@@ -56,10 +56,9 @@ python app.py
 
 
 ## results
-![image](https://github.com/user-attachments/assets/72a75819-c54a-4bfb-9865-d04c48a4e3a6)
+![image](https://github.com/user-attachments/assets/f1f51d1b-1a2a-4b39-a6fc-911fdb6f53db)
 
-![image](https://github.com/user-attachments/assets/45f6e595-6570-4ac0-96ad-834969dc5c74)
-
+![image](https://github.com/user-attachments/assets/11d7cffd-3f26-4ac4-8ac4-2afffc34f9f7)
 
 
 ## Dataset 📊
