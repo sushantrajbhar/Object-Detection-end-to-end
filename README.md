@@ -54,6 +54,14 @@ python app.py
 - **YOLOv9**: For state-of-the-art object detection and image segmentation.
 - **Virtualenv**: To manage project dependencies in an isolated environment.
 
+
+## results
+![image](https://github.com/user-attachments/assets/72a75819-c54a-4bfb-9865-d04c48a4e3a6)
+
+![image](https://github.com/user-attachments/assets/45f6e595-6570-4ac0-96ad-834969dc5c74)
+
+
+
 ## Dataset 📊
 I have used the dataset located at [this link](https://universe.roboflow.com/lamar-university-venef/grocery-rfn8l). It is a comprehensive dataset which has around 23k images. The training is done on Kaggle GPU, and you can check the code in the notebook present in the `yolov9/training_notebook` folder.
 
