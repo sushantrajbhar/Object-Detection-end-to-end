@@ -21,7 +21,7 @@ To run the project on your local machine, follow the steps below:
 virtualenv object_detection_venv
 
 2. Activate the Environment
-# For Windows:
+For Windows:
 cd object_detection_venv
 Scripts\activate
 
@@ -42,3 +42,7 @@ Python: The core language used for all components.
 Flask: Used for building the web interface.
 YOLOv9: For state-of-the-art object detection and image segmentation.
 Virtualenv: To manage project dependencies in an isolated environment.
+
+
+
+
