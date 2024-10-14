@@ -35,11 +35,10 @@ cd object_detection_venv
 Scripts\activate
 
 4. **Install Required Dependencies**
-```bash
+
 pip install -r requirements.txt
 
 6.** Run the Application**
-```bash
 python app.py
 
 
